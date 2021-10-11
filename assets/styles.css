@@ -3,13 +3,19 @@ html {
 }
 
 
+.game {
+    display: block;
+    width: 300px;
+    margin: 0 auto 0 auto;
+}
+
 #board {
     display: block;
-    text-align: center;
-    margin: 0 auto 0 auto;
     border: 1px solid green;
+    margin-right: 10px;
+    float: left;
 }
 
 #nextPiece {
-
+    border: 1px solid green;
 }
