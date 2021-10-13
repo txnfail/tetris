@@ -3,19 +3,19 @@ html {
 }
 
 
-.game {
+#jogo {
     display: block;
     width: 300px;
     margin: 0 auto 0 auto;
 }
 
-#board {
+#tabuleiro {
     display: block;
     border: 1px solid green;
     margin-right: 10px;
     float: left;
 }
 
-#nextPiece {
+#proximaPeca {
     border: 1px solid green;
 }
